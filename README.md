@@ -3,7 +3,7 @@
   <!--https://www.textures4photoshop.com/tex/abstract/matrix-code-animation-gif-free-animated-background.aspx-->
 </p>
 
-<h1 align="center">Hi 👋, I'm Rashmika Viduranga</h1>
+<h1 align="center">Hi 👋, I'm Rashmika </h1>
 <h3 align="center">Seeking Opportunities in Linux Administration</h3>
 
 <!--https://images.squarespace-cdn.com/content/v1/52c2df7ae4b0d215dded86fd/1705259402471-SUFR2I57YWFUMKIAET6M/hacker-hacker-man.gif?format=750w-->
